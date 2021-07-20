@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 
 Just edited from Github...
 Again added new line for testing fetch command.
+This is another line to test pull command
